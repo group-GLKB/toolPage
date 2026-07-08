@@ -75,7 +75,7 @@ export default function MainPage() {
       name: "GLKB Outreach & Event Tracking",
       description:
         "Track conferences, seminars, outreach activities, and UTM campaigns related to GLKB promotion.",
-      link: "https://docs.google.com/spreadsheets/d/1MkI8yj3-raxjHmtKtgbjapqH-G95J-By/edit?usp=drive_link&ouid=101359223465931593169&rtpof=true&sd=true",
+      link: "https://docs.google.com/spreadsheets/d/1MwIJi2e3sMj5PhpTxkbzrwxSa9Z7Zurw6SCbiBou4pE/edit?resourcekey=&gid=738252683#gid=738252683",
       category: "Tracking",
       encryptedCredentials: "",
     },{
