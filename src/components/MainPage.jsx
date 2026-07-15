@@ -54,12 +54,21 @@ export default function MainPage() {
     },
     {
       emoji: "🗄️",
-      name: "User Behavior Dashboard",
+      name: "User Behavior Dashboard (Dev)",
       description:
-        "Monitor user activity, search behavior, and engagement metrics across the GLKB platform.",
+        "Dev environment only — user activity, search behavior, and engagement metrics from the development PostgreSQL (pank-rank). Not production data.",
       link: "http://ec2-54-82-104-165.compute-1.amazonaws.com:8101/",
       category: "Monitor",
       encryptedCredentials: "pBe6rJiCaUcDAQmbFvIgoZpcdATdFIUeX/GZkOW38pMIEZBWz9gqO94YEz1PkMdT8W9qkGKtTfEzZfCMi3egeiZXwgzlsz6y6efQykoRpunTuh1UPE/e25Su",
+    },
+    {
+      emoji: "🏭",
+      name: "Production DB Monitor",
+      description:
+        "Production users_db analytics — KPIs, DAU, tier distribution, user detail, and engagement from the live production PostgreSQL.",
+      link: "https://glkb-monitor.404nfound.com",
+      category: "Monitor",
+      encryptedCredentials: "",
     },
     {
       emoji: "📊",
