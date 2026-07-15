@@ -68,7 +68,7 @@ export default function MainPage() {
         "Production users_db analytics — KPIs, DAU, tier distribution, user detail, and engagement from the live production PostgreSQL.",
       link: "https://glkb-monitor.404nfound.com",
       category: "Monitor",
-      encryptedCredentials: "pBe6rJiCaUcDAQmbFvIgoZpcdATdFIUeX/GZkOW38pMIEZBWz9gqO94YEz1PkMdT8W9qkGKtTfEzZfCMi3egeiZXwgzlsz6y6efQykoRpunTuh1UPE/e25Su",
+      encryptedCredentials: "75x84GlPNeMLmChp/1BUZHDf1YqxwBpmYpzVaqWXSMH5Ry3YthL/MNr1T8z5MhckjAOJIZ8JIxOHeacWCiS1uYYV7N+wo36aOGDdNB6dRbnL/wVLybUKE7eG5g==",
     },
     {
       emoji: "📊",
