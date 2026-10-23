@@ -57,7 +57,7 @@ export default function MainPage() {
       name: "User Behavior Dashboard (Dev)",
       description:
         "Dev environment only — user activity, search behavior, and engagement metrics from the development PostgreSQL (pank-rank). Not production data.",
-      link: "http://ec2-54-82-104-165.compute-1.amazonaws.com:8101/",
+      link: "http://54.237.237.42:8010/analytics/login?next=/analytics/",
       category: "Monitor",
       encryptedCredentials: "pBe6rJiCaUcDAQmbFvIgoZpcdATdFIUeX/GZkOW38pMIEZBWz9gqO94YEz1PkMdT8W9qkGKtTfEzZfCMi3egeiZXwgzlsz6y6efQykoRpunTuh1UPE/e25Su",
     },
